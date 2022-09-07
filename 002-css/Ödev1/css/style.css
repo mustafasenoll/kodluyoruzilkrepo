@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-size: 20px;
+}
+ul{
+    display: inline-block;
+    text-align: left;
+}
+.text-red{
+    color:red;
+}
+.text-orange{
+    color: orange;
+}
+ol{
+    display: inline-block;
+    text-align: left;
+}
