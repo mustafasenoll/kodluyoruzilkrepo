@@ -1,0 +1,75 @@
+body {
+    width: 100vw;
+    overflow: hidden;
+    margin-top: 200px;
+}
+
+#container {
+    height: 100vh;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.arama {
+    width: 340px;
+    display: block;
+    margin: 5px auto;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+}
+
+.gri_kutu {
+    width: 70%;
+    background: #dddddd;
+    margin: 3px auto;
+}
+
+.ebeveyn {
+    width: 70%;
+    margin: 3px auto;
+    height: 80px;
+    margin-bottom: 50px;
+}
+
+.kutu {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 100%;
+    margin: 0;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.r1 {
+    width: 40%;
+    background-color: rgb(59, 181, 169);
+}
+
+.r2 {
+    width: 20%;
+    background-color: rgb(39, 161, 149);
+}
+
+.r3 {
+    width: 39.2%;
+    background-color: rgb(19, 141, 129);
+}
+
+.kutu > p {
+    display: inline;
+}
+
+.kutu > a {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0 auto!important;
+    display: block!important;
+    
+}
